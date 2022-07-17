@@ -13,4 +13,4 @@ This repository contains 6 .xlsx files:
 2.2. Hackerrank problems - solved in the current week
 2.3. Hackerrank problemss - solved up till date
 
-At any time, I will be working on 2 Leetcode problems, & 2 Hackerrank problems concurrently.
+At any time, I will be working on at least 2 Leetcode problems, & 2 Hackerrank problems concurrently.
